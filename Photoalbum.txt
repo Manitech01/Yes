@@ -1,0 +1,22 @@
+Aim:
+To create a photo album of a college trip by applying different image dimensionsand formats. Software Required:  Microsoft Photos  Canva
+Steps:
+Step 1: Select an image from your college trip. Step 2: Open the image in your favourite image editor. Let’s go
+with Windows default photo viewer Photos. Step 3: Choose the edit option in Microsoft’s Photos, then try
+different image dimensions. Step 4: After choosing the right image dimension, save the image
+in your desired format, in our case it is JPEG. Step 5: For printed albums, the preferred size dimensions are 4X6
+inches, 5X7 inches, or 8X10 inches. While for a digital try saving
+the image in 1920X1080 pixels. Step 6: Canva can be used to add some additional details to the
+image. While using Canva you can change the format of the image
+when saving the image. Step 7: Canva is a great tool for image editing and other image
+
+Original Image:
+Image Format : .JPG
+Image Dimension : 612x409
+Image Size : 52 KB
+
+Image After Changing Dimension:
+Image Format : .JPG
+Image Dimension : 545x409
+Image Size : 65 KB
+Here are the screenshots for changing the dimensions of the image. Changing the image format:  Changing the format of the image from JPG to PNG. Canva comes handy in this situtation.  Using Canva (which is online based image editing tool) you can change the format of theimage.  Canva can be used to change the dimensions of the image. Image After Chaning Format
